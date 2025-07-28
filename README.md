@@ -1,7 +1,7 @@
 # Challenge Alura Latam #
 
-## Sorteo del Amigo Secreto ##
-
-### - Developers: ###
+## Developers: ##
 
 #### - Edu J. Caceres R. ####
+
+### Sorteo del Amigo Secreto ###
